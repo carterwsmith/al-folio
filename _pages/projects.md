@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: This is what I do in my free time. Make of that what you will. (more coming when I get around to it)
+description: This is what I do in my free time. Make of that what you will. (Page is incomplete. See all my work on <a href="https://github.com/carterwsmith">GitHub</a>)
 nav: true
 display_categories: [code]
 horizontal: false
