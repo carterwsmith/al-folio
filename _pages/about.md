@@ -14,11 +14,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Currently:** Spring 2022 Intern @ ???
+**Currently:** Spring 2022 Intern @ Terkel
 
 **Formerly:** Tech Incubator @ Capital One
 
-Second-year undergraduate who chose Champaign, Illinois, of all places, to live the college experience. 🌽
+Student at UIUC. 🌽
 
 Some cool things I've done:
 <a href=""></a>
@@ -35,6 +35,6 @@ Some cool things I'm doing:
 
 In the past, this has led me to compete in triathalons, <a href="https://msports.org">luge</a>, fly a turboprop aircraft (with a supervisor), and learn NLP with no prior machine learning experience.
 
-In the future, it means that I can be a great asset to you, your company, or someone to talk to if you need it. 😄
+In the future, it means that I can be a great asset to you or your company.
 
 I always keep my email at inbox zero. Reach out and I bet I'll get back to you within 12 hours. ⬇️
